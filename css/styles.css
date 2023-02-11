@@ -222,6 +222,17 @@ a,
     height: 45px;
 }
 
+/* FOOTER SECTION */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+    background-color: #1f2937;
+    color: #F9FAF8;
+    font-size: 20px;
+}
 
 
 
