@@ -9,6 +9,10 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+.content {
+    flex-grow: 1;
+}
+
 /* HEADER SECTION */
 ul {
     padding: 0;
@@ -57,4 +61,6 @@ a {
 .footer .main-text {
     color: #e5e7eb;
 }
+
+
 
