@@ -144,3 +144,29 @@ a {
     width: 250px;
     text-align: center;
 }
+
+/* THIRD SECTION */
+
+.third-section {
+    background: #e5e7eb;
+    padding: 150px 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.third-section .main-text{
+    font-size: 36px;
+    color: #1f2937;
+    width: 850px;
+}
+
+.third-section .secondary-text {
+    color: #1f2937;
+    font-size: 23px;
+    font-weight: bolder;
+    margin-left: 600px;
+    margin-top: -20px;
+}
+
