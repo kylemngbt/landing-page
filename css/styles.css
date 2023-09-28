@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
+    height: 100vh;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -55,5 +56,9 @@ a {
 
 .footer .main-text {
     color: #e5e7eb;
+}
+
+.content {
+    flex-grow: 1;
 }
 
