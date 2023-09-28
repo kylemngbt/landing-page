@@ -62,5 +62,31 @@ a {
     color: #e5e7eb;
 }
 
+/* FIRST SECTION */
+
+.first-section {
+    background-color: #1f2937;
+}
+
+.first-section .main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.first-section .secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.first-section .signup {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 5px 25px;
+    border-radius: 10px;
+    border: none;
+}
 
 
