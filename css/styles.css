@@ -44,3 +44,16 @@ a {
     gap: 40px;
 }
 
+/* FOOTER SECTION */
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .main-text {
+    color: #e5e7eb;
+}
+
