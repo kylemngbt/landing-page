@@ -170,3 +170,46 @@ a {
     margin-top: -20px;
 }
 
+
+/* FOURTH SECTION */
+
+.fourth-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 125px;
+    color: #f9faf8;
+}
+
+.blue-box {
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 60px 150px;
+    width:800px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fourth-section .container {
+    display: flex;
+    flex-direction: column;
+}
+
+.fourth-section .signup {
+    height: auto;
+    border: 3px solid #f9faf8;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 8px 40px;
+    border-radius: 10px;
+}
+
+.fourth-section .main-text,
+.fourth-section .secondary-text {
+    margin: 0;
+}
+
+
