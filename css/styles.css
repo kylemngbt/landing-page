@@ -19,6 +19,32 @@ body {
   font-family: "Roboto";
 }
 
+/* HEADER */
+
+.header {
+  background-color: #1f2937;
+  display: flex;
+  color: #f9faf8;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 180px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bolder;
+
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  gap: 18px;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+
 
 .content {
   flex: 1;
