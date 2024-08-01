@@ -227,3 +227,10 @@ body {
 .content {
   flex: 1;
 }
+
+.hero-section,
+.random-section,
+.quote-section,
+.call-section {
+  flex: 1;
+}
