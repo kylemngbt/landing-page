@@ -49,6 +49,62 @@ body {
     color: #e5e7eb;
 }
 
+/* HERO SECTION */
+
+.hero-section {
+  background-color: #1f2937;
+  color:  #f9faf8;
+  display: flex;
+  padding: 100px 180px;
+}
+
+.hero-section .container {
+  display: flex;
+  height: 300px;
+  width: 100%;
+  align-items: center;
+}
+
+.left-side,
+.right-side {
+  flex: 1;
+}
+
+.left-side h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  margin-bottom: 15px;
+}
+
+.left-side p {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-bottom: 25px;
+  
+}
+
+.left-side button {
+  background-color: #3882f6;
+  border: 0;
+  border-radius: 10px;
+  color: #f9faf8;
+  padding: 10px 40px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.right-side {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #6d747d;
+  height: 100%;
+  border-radius: 5px; 
+}
+
+
+
+
 
 
 .content {
